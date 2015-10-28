@@ -1,5 +1,5 @@
 ---
-date: 2015-01-04 02:44:30+00:00
+date: 2015-10-21 22:22:30+00:00
 layout: post
 title: 什么是XB Linux
 thread: 164

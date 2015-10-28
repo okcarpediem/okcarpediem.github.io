@@ -1,5 +1,5 @@
 ---
-date: 2015-08-12 10:02:30
+date: 2015-10-28 22:20:30
 layout: post
 title: 为什么想到制作XB Linux
 thread: 

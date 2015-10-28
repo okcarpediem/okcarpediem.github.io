@@ -1,15 +1,15 @@
 markdown: rdiscount
 permalink: /:title/
-url: http://okcarpediem.github.io
+url: http://xblinux.github.io
 name: XB Linux
-author: okcarpediem
+author: xblinux
 qq: 277357787
-email: xblinux@163.com
-duoshuo: yonsm
+email: xblinux@yeah.net
+duoshuo: 
 beian: 
-cnzz: 119959
+cnzz: 
 weibo: 
-github: okcarpediem
+github: xblinux
 pygments: true
 safe: true
 paginate: 20

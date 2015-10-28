@@ -1,5 +1,5 @@
 ---
-date: 2015-05-19 12:20:30
+date: 2015-10-21 22:35:30
 layout: post
 title: 其它相似的Linux发行版
 thread: 164
